@@ -4,9 +4,7 @@
 Я начинающий веб разработчик самоучка. Мой путь в it начался в 27.02.23. Сначала я изучал язык html и css по видео курсам, а потом перешел на документаций. Я хорошо владею html&css и неплохо знаю js.
 
 Технологии:
-Html
-Css
-Javascript
+Html&Css, Javascript
 
 <!--
 **BaikenShyntas/BaikenShyntas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
